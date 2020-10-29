@@ -1,0 +1,10 @@
+{
+  "name": "get-currency",
+  "version": "1.0.0",
+  "main": "get-currency.js",
+  "repository": "git@github.com:petergab/get-currency.git",
+  "devDependencies": {
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
